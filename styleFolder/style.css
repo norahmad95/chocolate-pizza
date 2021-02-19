@@ -1,0 +1,180 @@
+    body header {
+        display: block;
+        margin-left: 300px;
+        margin-right: 300px;
+        margin-top: 40px;
+    }
+    
+    #logo {
+        float: left;
+    }
+    
+    #right {
+        float: right;
+    }
+    
+    header h2 h1 {
+        float: left;
+    }
+    
+    header h1 {
+        font-size: 38px;
+        font-family: 'Yellowtail', cursive;
+    }
+    
+    header h2 {
+        font-size: 10px;
+        font-family: serif;
+        margin-right: -2px;
+    }
+    
+    main hr {
+        margin-left: 300px;
+        margin-right: 300px;
+        margin-top: 20px;
+        border-style: hidden;
+        border-top: 20px;
+        padding-top: 20px;
+        height: 12px;
+        border: 0;
+        box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 70%;
+    }
+    
+    main h1 {
+        /* margin-left: 60px;
+     margin-right: 60px; */
+        margin-top: 30px;
+        font-size: 30px;
+        font-family: 'Passion One', cursive;
+        display: block;
+        margin-left: 300px;
+        margin-right: 300px;
+        width: 70%;
+    }
+    
+    body h6 {
+        margin-bottom: 20px;
+        margin-left: 300px;
+        color: grey;
+        font-size: 20;
+    }
+    
+    main img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: fit-content;
+    }
+    
+    main p {
+        padding-left: 60px;
+        padding-right: 60px;
+        margin-top: 10px;
+        text-indent: 30px;
+    }
+    
+    .pragraph {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 70%;
+    }
+    
+    body article {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 70%;
+        padding-top: 20px;
+    }
+    
+    ul {
+        float: left;
+        line-height: 30px;
+        list-style-type: square;
+        list-style-position: inside;
+        margin-right: 30px;
+    }
+    
+    #flow {
+        float: right;
+        list-style-position: inside;
+        margin-bottom: 20px;
+        padding-left: 100px;
+    }
+    
+    #pade {
+        padding-left: 50px;
+    }
+    
+    #tik li:before {
+        content: "\2714\0020";
+    }
+    
+    #grad1 {
+        background-image: url(/img/list-bg.png);
+        background-repeat: no-repeat;
+        background-size: 900px 305px;
+        margin-left: 400px;
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+    
+    #van {
+        float: left;
+        margin-right: 10px;
+        margin-left: 300px;
+    }
+    
+    div {
+        float: left;
+        /* margin-left: 500px; */
+    }
+    
+    body h3 {
+        font-family: Impact, 'Arial Narrow Bold', sans-serif;
+        font-size: 20px;
+    }
+    
+    button {
+        float: right;
+        background-color: #ff00009a;
+        margin-right: 300px;
+        font-size: 12px;
+        padding: 12px 28px;
+        border-radius: 4px;
+    }
+    /* footer {
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+} */
+    
+    footer hr {
+        margin-left: 300px;
+        margin-right: 300px;
+        margin-bottom: 50px;
+    }
+    
+    footer img {
+        margin-left: -360px;
+        margin-right: -300px;
+        margin-top: 100px;
+        margin-bottom: -30px;
+        padding-left: 300px;
+        padding-right: 300pz;
+    }
+    
+    footer p {
+        position: relative;
+        text-align: center;
+        color: rgb(128, 128, 128);
+    }
+    
+    footer {
+        padding-bottom: 20px;
+    }
